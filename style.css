@@ -1,0 +1,21 @@
+#buttons {
+    margin: 10px;
+}
+
+.drop-button {
+    background-color: lightblue;
+    border: 2px solid black;
+    font-family:'Times New Roman', Times, serif;
+    height: 30px;
+    width: 100px;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.drop-button:hover {
+    background-color: lightskyblue;
+    width: 120px;
+    margin-left: 6px;
+    margin-right: 6px; 
+    transition: 0.2s;
+}
